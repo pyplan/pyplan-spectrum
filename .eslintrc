@@ -1,0 +1,45 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "no-undef": "error"
+  },
+  "globals": {
+    "process": true,
+    "moment": false,
+    "Backbone": false,
+    "BackboneMVC": false,
+    "_": false,
+    "ace": false,
+    "L": false,
+    "chroma": false,
+    "Highcharts": false,
+    "plupload": false,
+    "PIXI": false,
+    "TweenMax": false,
+    "Plotly": false,
+    "store": true,
+    "__appName": true,
+    "__appVersion": true,
+    "__environmentName": true,
+    "__apiURL": true,
+    "__uiURL": true,
+    "__wsURL": true,
+    "__currentSession": true,
+    "__customer": true,
+    "__currentToken": true,
+    "__customerStyles": true,
+    "__processDictionary": true,
+    "__currentDictionary": true,
+    "__resizeDictionary": true,
+    "__errorManager": true,
+    "__socialLogins": true,
+    "DESKTOP": true
+  },
+  "env": {
+    "jquery": true,
+    "amd": true,
+    "es6": true,
+    "commonjs": true,
+    "browser": true
+  }
+}

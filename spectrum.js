@@ -663,9 +663,6 @@
             if (clickoutFiresChange) {
                 updateOriginalInput(true);
             }
-            else {
-                revert();
-            }
             hide();
         }
 
