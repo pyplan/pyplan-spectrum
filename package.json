@@ -1,30 +1,34 @@
 {
-    "name": "spectrum-colorpicker",
-    "description": "Spectrum: the no hassle jQuery colorpicker",
-    "version": "1.8.1",
-    "main": "spectrum.js",
-    "license": "MIT",
-    "keywords": [
-        "jquery-plugin",
-        "ecosystem:jquery",
-        "color",
-        "colorpicker",
-        "ui"
-    ],
-    "homepage": "http://bgrins.github.com/spectrum",
-    "repository": {
-        "type": "git",
-        "url": "https://bgrins.github.com/spectrum"
-    },
-    "author": {
-        "name": "Brian Grinstead",
-        "email": "briangrinstead@gmail.com",
-        "url": "http://briangrinstead.com/"
-    },
-    "devDependencies": {
-        "grunt": "^1.1.0",
-        "grunt-contrib-jshint": "^2.1.0",
-        "grunt-contrib-qunit": "^3.1.0",
-        "grunt-contrib-uglify": "^4.0.1"
-    }
+  "name": "@cardcaptor/pyplan-spectrum",
+  "description": "Spectrum: the no hassle jQuery colorpicker",
+  "version": "1.8.1",
+  "main": "spectrum.js",
+  "license": "MIT",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "color",
+    "colorpicker",
+    "ui"
+  ],
+  "homepage": "http://bgrins.github.com/spectrum",
+  "repository": {
+    "type": "git",
+    "url": "https://bgrins.github.com/spectrum"
+  },
+  "author": "Brian Grinstead <briangrinstead@gmail.com> (http://briangrinstead.com/)",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
