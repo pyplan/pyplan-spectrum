@@ -1,7 +1,7 @@
 {
   "name": "pyplan-spectrum",
   "description": "Spectrum: the no hassle jQuery colorpicker",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "main": "spectrum.js",
   "license": "MIT",
   "keywords": [
